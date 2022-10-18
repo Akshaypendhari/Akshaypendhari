@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaypendhari&label=Profile%20views&color=0e75b6&style=flat" alt="akshaypendhari" /> </p>
 
-- 💬 Ask me about **core java ,SQL, manual testing ,SDLC, collection**
+- 💬 Ask me about **core java ,SQL, manual testing ,SDLC, collection framework**
 
 - 📫 How to reach me **pendhariad1995@gmail.com**
 
